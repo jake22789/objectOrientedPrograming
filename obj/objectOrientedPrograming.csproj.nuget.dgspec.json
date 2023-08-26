@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jake9\\objectOrientedPrograming\\objectOrientedPrograming.csproj": {}
+    "c:\\Users\\jake9\\objectOrientedPrograming\\objectOrientedPrograming.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jake9\\objectOrientedPrograming\\objectOrientedPrograming.csproj": {
+    "c:\\Users\\jake9\\objectOrientedPrograming\\objectOrientedPrograming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jake9\\objectOrientedPrograming\\objectOrientedPrograming.csproj",
+        "projectUniqueName": "c:\\Users\\jake9\\objectOrientedPrograming\\objectOrientedPrograming.csproj",
         "projectName": "objectOrientedPrograming",
-        "projectPath": "C:\\Users\\jake9\\objectOrientedPrograming\\objectOrientedPrograming.csproj",
+        "projectPath": "c:\\Users\\jake9\\objectOrientedPrograming\\objectOrientedPrograming.csproj",
         "packagesPath": "C:\\Users\\jake9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jake9\\objectOrientedPrograming\\obj\\",
+        "outputPath": "c:\\Users\\jake9\\objectOrientedPrograming\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jake9\\AppData\\Roaming\\NuGet\\NuGet.Config"
